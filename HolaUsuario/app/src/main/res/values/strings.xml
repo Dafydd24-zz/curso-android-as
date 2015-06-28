@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HolaUsuario</string>
+
+    <string name="hello_world">Escribe tu nombre:</string>
+    <string name="action_settings">Settings</string>
+    <string name="button">Enviar</string>
+</resources>
