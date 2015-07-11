@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Widget2</string>
+    <string name="mi_primer_widget">Mi Primer Widget</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="actualizar">Actualizar</string>
+    <string name="action_settings">Settings</string>
+</resources>
